@@ -2,7 +2,7 @@
 
 [QR SCAN](https://bit.ly/3dvhTWM)
 
-[WEB SITE](dileepatech.ga)
+[WEB SITE](https://heroku.com/deploy)
 
 
 ```
